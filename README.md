@@ -67,3 +67,8 @@ https://jonbarron.info/
 
 Luma AI - NeRF mobile capture app
 https://lumalabs.ai/
+
+## Audio NeRF
+
+In audio processing, this technique has been applied to acoustic and head-related transfer function interpolation. 
+https://arxiv.org/abs/2305.04447
