@@ -11,6 +11,9 @@ https://github.com/pixel-alex/awesome-scene-representation
 A repo collating papers and other material related to neural radiance fields (NeRFs), neural scene representations and associated works with a focus towards applications in robotics.
 https://github.com/RoboticImaging/neural_fields_for_robotics_resources
 
+Awesome NeRF (Huge collection)
+https://github.com/awesome-NeRF/awesome-NeRF
+
 ## Videos
 
 Why THIS is the Future of Imagery. Introduction video made my VFX artists.
