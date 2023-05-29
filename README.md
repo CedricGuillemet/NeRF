@@ -49,6 +49,9 @@ https://synthesiaresearch.github.io/humanrf/
 Text2NeRF: Text-Driven 3D Scene Generation with Neural Radiance Fields
 https://eckertzhang.github.io/Text2NeRF.github.io/?s=03
 
+NeRF-Texture: Texture Synthesis with Neural Radiance Fields
+https://yihua7.github.io/NeRF-Texture-web/
+
 ## Code/Repos
 
 a pytorch implementation for the paper: TensoRF: Tensorial Radiance Fields. Our work present a novel approach to model and reconstruct radiance fields, which achieves super fast training process, compact memory footprint and state-of-the-art rendering quality.
